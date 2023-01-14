@@ -1,108 +1,123 @@
-.contaner{
-   background-color: aqua;
-    width: 100%;
-    height: 250px;
-    
+* {
+  margin: 0;
+  padding: 0;
 }
-.name{
-    font-family:serif;
-    font-style: normal;
-    padding-left: 300px;
+.header1 {
+  display: flex;
+  justify-content: space-around;
+  padding-top: 10px;
+  color: aliceblue;
 }
-.githup{
-    font-family:serif;
-    font-style: normal;
-    padding-left: 1200px;
-    margin-top: -40px;
+.contaner {
+  background-image: url("./imges/cover.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  width: 100%;
+  height: 420px;
+  text-align: center;
+  color: aliceblue;
 }
-.Job{
-    padding-left: 300px;
-    margin-top: 70px;
-    font-family:Arial;
+.Job {
+  margin-top: 70px;
+  font-family: Arial;
+  text-align: center;
 }
-.position{
-    padding-left: 300px;
-    margin-top: -15px;
+.contact1 {
+  text-decoration: none;
+  color: aliceblue;
+  font-size: 15px;
+  font-weight: bold;
 }
-#name{
-    padding-left: 800px ;
-    font-style:initial; 
-}
-.content{
-    background-color: white;
-    width: 100%;
-    height: 250px;
-}
-#img{
-    padding-left: 350px;
-    margin-top: -40px;
-}
-.img{
-    width: 200px;
-    height: 200px;
-    border-radius: 50%; 
-    border: 8px;
-    border-color: darkgrey;
-    border-style: solid;
-}
-p{
-    padding-left: 620px;
-    margin-top: -160px;
-}
-.contact{
-    background-color: rgb(229, 231, 234);
-     width: 100%;
-     height: 250px;
- }
- #githup{
-    width: 40px;
-    height: 40px;
-    padding-left: 5px;
-    padding-right: 5px;
-    border-radius: 50%;
- }
- #gmail{
-    width: 40px;
-    height: 40px;
-    padding-left: 5px;
-    padding-right: 5px;
-    border-radius: 50%;
- }
- #ins{
-    width: 40px;
-    height: 40px;
-    padding-left: 5px;
-    padding-right: 5px;
-    border-radius: 50%;
-    
- }
- #twitter{
-    width: 40px;
-    height: 40px;
-    padding-left: 5px;
-    padding-right: 5px;
-    border-radius: 50%;
- }
- #linkid{
-    width: 40px;
-    height: 40px;
-    padding-left: 5px;
-    padding-right: 5px;
-    border-radius: 50%;
- }
- #face{
-    width: 40px;
-    height: 40px;
-    padding-left: 5px;
-    padding-right: 5px;
-    border-radius: 50%;
-    border-radius: 50%;
- }
-.photo{
-    width: 350px;
-    height: 44px;
-   padding-left: 44%;
-   padding-top: 20px;
- }
- 
 
+#name {
+  padding-left: 800px;
+  font-style: initial;
+}
+.content {
+  background-color: white;
+  width: 100%;
+  height: 250px;
+  padding-top: 40px;
+}
+.content p {
+  text-align: center;
+  width: 600px;
+}
+
+#img {
+  padding-left: 350px;
+  margin-top: -40px;
+}
+.img {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  border: 8px;
+  border-color: darkgrey;
+  border-style: solid;
+}
+p {
+  padding-left: 620px;
+  margin-top: -160px;
+}
+.contact {
+  background-color: rgb(229, 231, 234);
+  width: 100%;
+  height: 175px;
+  padding-top: 30px;
+}
+.contact2 {
+  background-color: rgb(229, 231, 234);
+  width: 100%;
+  padding: 5px 0;
+}
+#githup {
+  width: 40px;
+  height: 40px;
+  padding-left: 5px;
+  padding-right: 5px;
+  border-radius: 50%;
+}
+#gmail {
+  width: 40px;
+  height: 40px;
+  padding-left: 5px;
+  padding-right: 5px;
+  border-radius: 50%;
+}
+#ins {
+  width: 40px;
+  height: 40px;
+  padding-left: 5px;
+  padding-right: 5px;
+  border-radius: 50%;
+}
+#twitter {
+  width: 40px;
+  height: 40px;
+  padding-left: 5px;
+  padding-right: 5px;
+  border-radius: 50%;
+}
+#linkid {
+  width: 40px;
+  height: 40px;
+  padding-left: 5px;
+  padding-right: 5px;
+  border-radius: 50%;
+}
+#face {
+  width: 40px;
+  height: 40px;
+  padding-left: 5px;
+  padding-right: 5px;
+  border-radius: 50%;
+  border-radius: 50%;
+}
+.photo {
+  width: 100%;
+  height: 44px;
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
