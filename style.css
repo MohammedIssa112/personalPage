@@ -1,0 +1,108 @@
+.contaner{
+   background-color: aqua;
+    width: 100%;
+    height: 250px;
+    
+}
+.name{
+    font-family:serif;
+    font-style: normal;
+    padding-left: 300px;
+}
+.githup{
+    font-family:serif;
+    font-style: normal;
+    padding-left: 1200px;
+    margin-top: -40px;
+}
+.Job{
+    padding-left: 300px;
+    margin-top: 70px;
+    font-family:Arial;
+}
+.position{
+    padding-left: 300px;
+    margin-top: -15px;
+}
+#name{
+    padding-left: 800px ;
+    font-style:initial; 
+}
+.content{
+    background-color: white;
+    width: 100%;
+    height: 250px;
+}
+#img{
+    padding-left: 350px;
+    margin-top: -40px;
+}
+.img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%; 
+    border: 8px;
+    border-color: darkgrey;
+    border-style: solid;
+}
+p{
+    padding-left: 620px;
+    margin-top: -160px;
+}
+.contact{
+    background-color: rgb(229, 231, 234);
+     width: 100%;
+     height: 250px;
+ }
+ #githup{
+    width: 40px;
+    height: 40px;
+    padding-left: 5px;
+    padding-right: 5px;
+    border-radius: 50%;
+ }
+ #gmail{
+    width: 40px;
+    height: 40px;
+    padding-left: 5px;
+    padding-right: 5px;
+    border-radius: 50%;
+ }
+ #ins{
+    width: 40px;
+    height: 40px;
+    padding-left: 5px;
+    padding-right: 5px;
+    border-radius: 50%;
+    
+ }
+ #twitter{
+    width: 40px;
+    height: 40px;
+    padding-left: 5px;
+    padding-right: 5px;
+    border-radius: 50%;
+ }
+ #linkid{
+    width: 40px;
+    height: 40px;
+    padding-left: 5px;
+    padding-right: 5px;
+    border-radius: 50%;
+ }
+ #face{
+    width: 40px;
+    height: 40px;
+    padding-left: 5px;
+    padding-right: 5px;
+    border-radius: 50%;
+    border-radius: 50%;
+ }
+.photo{
+    width: 350px;
+    height: 44px;
+   padding-left: 44%;
+   padding-top: 20px;
+ }
+ 
+
